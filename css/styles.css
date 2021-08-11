@@ -38,3 +38,8 @@ body{
 .navbar-dark{
     background-color: #512da8;
 }
+
+.card-head
+{
+    background-color: orange;
+}
